@@ -1,5 +1,5 @@
 #### This c++ program creates a chessboard style map.
-Each tile of the map can idle, on fire or have a vehicle on it.
+Each tile of the map can be idle, on fire or have a vehicle on it.
 The user can interact with the map by starting fires and placing vehicles.
 
 <img src="Screenshot.png" alt="Image " width="850" height="whatever">
